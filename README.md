@@ -4,12 +4,7 @@
 
 In this GitHub repository, I present my work on cleaning and imputing the Tehran COVID database. I have meticulously processed the data to ensure its accuracy and reliability for further analysis. In addition to data cleaning, I thoroughly investigated and compared different imputation methods using the `statsmodels` library. This rigorous analysis helped ensure the quality and completeness of the dataset, making it suitable for in-depth research and analysis.
 
-The primary focus of this project aligns with the main objectives of the broader initiative, which includes studying critical outcomes related to COVID-19. These outcomes are vital in understanding the impact of the virus and guiding healthcare decisions. The main outcomes explored in this project include:
-
-- **Mortality:** Understanding and predicting mortality rates among COVID-19 patients.
-- **Intubation:** Investigating the need for intubation in severe cases.
-- **Dialysis:** Assessing the requirement for dialysis in patients with kidney complications.
-- **ICU Admission:** Analyzing factors leading to ICU admission for COVID-19 patients.
+The primary focus of this project aligns with the main objectives of the broader initiative, which includes studying critical outcomes related to COVID-19. These outcomes are vital in understanding the impact of the virus and guiding healthcare decisions. The main outcomes explored in this project include: **Mortality, Intubation, Dialysis and ICU Admission:** 
 
 The dataset used in this project was collected as part of the following phases:
 
@@ -33,7 +28,8 @@ Generalizable machine learning approach for COVID-19 mortality risk prediction u
 Preprint version: COVID-19 Mortality Risk Prediction using Clinical and Laboratory Examination: Machine Learning Approach for Implementation
 GitHub Repo: https://github.com/SiavashShirzad/CovidAI
 Main Repository
-For the main repository of this project, please visit: https://github.com/Sdamirsa/Tehran_COVID_Cohort
+
+**For the main repository of this project, please visit:** https://github.com/Sdamirsa/Tehran_COVID_Cohort
 
 Thank you for visiting this repository, and I hope that the work presented here contributes to our collective understanding of COVID-19 and cardiovascular health. Your feedback and contributions are highly appreciated.
 
