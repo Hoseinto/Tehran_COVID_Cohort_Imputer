@@ -1,6 +1,6 @@
 # Tehran_COVID_Cohort_Imputer
 
-# Data Cleaning and Imputation for Tehran COVID Database
+## Data Cleaning and Imputation for Tehran COVID Database
 
 In this GitHub repository, I present my work on cleaning and imputing the Tehran COVID database. I have meticulously processed the data to ensure its accuracy and reliability for further analysis. In addition to data cleaning, I thoroughly investigated and compared different imputation methods using the `statsmodels` library. This rigorous analysis helped ensure the quality and completeness of the dataset, making it suitable for in-depth research and analysis.
 
@@ -14,13 +14,20 @@ The primary focus of this project aligns with the main objectives of the broader
 The dataset used in this project was collected as part of the following phases:
 
 Phase I Registry (2019-2020): Emam Hossein Hospital, Taleghani Hospital, Shohada-E-Tajrish Hospital
+
 Phase II (2021-2022): Emam Hossein Hospital, Loghman Hospital
-Research Team
+
+**Research Team**
 Principal Investigator: Dr. Mohamad Amin Pourhoseingholi, PhD (Research Institute for Gastroenterology and Liver Diseases; aminphg@gmail.com)
+
 Coordinator: Dr. Seyed Amir Ahmad Safavi-Naini, MD (Research Institute for Gastroenterology and Liver Diseases; sdamirsa@gmail.com)
+
 Ethical ID: IR.SBMU.RIGLD.REC.1399.058
+
 Lab: Basic and Molecular Epidemiology Research Center
-Published Articles
+
+**Published Articles**
+
 Epidemiology of COVID-19 in Tehran, Iran: A Cohort Study of Clinical Profile, Risk Factors, and Outcomes
 Generalizable machine learning approach for COVID-19 mortality risk prediction using on-admission clinical and laboratory features
 Preprint version: COVID-19 Mortality Risk Prediction using Clinical and Laboratory Examination: Machine Learning Approach for Implementation
