@@ -36,7 +36,8 @@ Main Repository
 For the main repository of this project, please visit: https://github.com/Sdamirsa/Tehran_COVID_Cohort
 
 Thank you for visiting this repository, and I hope that the work presented here contributes to our collective understanding of COVID-19 and cardiovascular health. Your feedback and contributions are highly appreciated.
-Hello! I'm Dr. Hossein Toreyhi, a medical doctor and programmer with a passion for deep learning and AI projects, particularly in the fields of COVID-19, cardiovascular health, and cardiology. With a background in medicine and programming, I'm dedicated to leveraging AI to enhance our understanding and management of critical healthcare issues. I would like to express my heartfelt gratitude to Dr. Amir Safavi Naieni, whose support and guidance have been instrumental in making this project possible. Dr. Naieni's mentorship has allowed me to combine my medical expertise with programming skills, opening up exciting opportunities to contribute to the field of healthcare AI.
+
+I'm Dr. Hossein Toreyhi, a medical doctor and programmer with a passion for deep learning and AI projects, particularly in the fields of COVID-19, cardiovascular health, and cardiology. With a background in medicine and programming, I'm dedicated to leveraging AI to enhance our understanding and management of critical healthcare issues. I would like to express my heartfelt gratitude to Dr. Amir Safavi Naieni, whose support and guidance have been instrumental in making this project possible. Dr. Naieni's mentorship has allowed me to combine my medical expertise with programming skills, opening up exciting opportunities to contribute to the field of healthcare AI.
 
 Thank you for visiting this repository, and I hope that the work presented here contributes to our collective understanding of COVID-19 and cardiovascular health. Your feedback and contributions are highly appreciated.
 
